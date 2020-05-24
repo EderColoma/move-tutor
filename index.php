@@ -144,7 +144,7 @@ $xajax->processRequests();
  * Renderizar o HTML 
  */
 $xtpl = new XTemplate( "html/index.html" );
-$xtpl->assign( "ajax", $xajax->printJavascript('vendor/ajax') );
+$xtpl->assign( "ajax", $xajax->printJavascript('resources/ajax') );
 $xtpl->parse( "Principal.Cabecalho" );	
 $xtpl->parse("Principal");
 $xtpl->out("Principal");
