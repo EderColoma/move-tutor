@@ -1,0 +1,10 @@
+<?php
+interface Listable
+{
+	
+	/*
+	 * Função para retornar a lista de elementos que atendem a determinadas condições no formato chave-valor. 
+	 */
+	public static function getList(array $conditions = null);
+	
+}
