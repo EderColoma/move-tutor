@@ -4,7 +4,7 @@
  * renderização possam ser feitos em background, desse modo não precisamos ficar 
  * recarregando a pagina.
  */
-require_once("vendor/ajax/xajax.inc.php");
+require_once($_SERVER['DOCUMENT_ROOT']."/vendor/ajax/xajax.inc.php");
 require_once("app/PokemonMoveTutor.php");
 
 /*
