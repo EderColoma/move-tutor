@@ -1,0 +1,14 @@
+INSERT INTO `pm_game` (`ID_GAME`, `NAME`, `IMAGE`, `LINK`, `GENERATION`) VALUES (1,'Ruby',null,'http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions', 3);
+INSERT INTO `pm_game` (`ID_GAME`, `NAME`, `IMAGE`, `LINK`, `GENERATION`) VALUES (2,'Saphire',null,'http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions', 3);
+INSERT INTO `pm_game` (`ID_GAME`, `NAME`, `IMAGE`, `LINK`, `GENERATION`) VALUES (3,'FireRed',null,'http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions', 3);
+INSERT INTO `pm_game` (`ID_GAME`, `NAME`, `IMAGE`, `LINK`, `GENERATION`) VALUES (4,'LeafGreen',null,'http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen_Versions', 3);
+INSERT INTO `pm_game` (`ID_GAME`, `NAME`, `IMAGE`, `LINK`, `GENERATION`) VALUES (5,'Emerald',null,'http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Emerald_Version', 3);
+INSERT INTO `pm_game` (`ID_GAME`, `NAME`, `IMAGE`, `LINK`, `GENERATION`) VALUES (6,'Diamond',null,'http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions', 4);
+INSERT INTO `pm_game` (`ID_GAME`, `NAME`, `IMAGE`, `LINK`, `GENERATION`) VALUES (7,'Pearl',null,'http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Diamond_and_Pearl_Versions', 4);
+INSERT INTO `pm_game` (`ID_GAME`, `NAME`, `IMAGE`, `LINK`, `GENERATION`) VALUES (8,'Platinum',null,'http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Platinum_Version', 4);
+INSERT INTO `pm_game` (`ID_GAME`, `NAME`, `IMAGE`, `LINK`, `GENERATION`) VALUES (9,'HeartGold',null,'http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions', 4);
+INSERT INTO `pm_game` (`ID_GAME`, `NAME`, `IMAGE`, `LINK`, `GENERATION`) VALUES (10,'SoulSilver',null,'http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver_Versions', 4);
+INSERT INTO `pm_game` (`ID_GAME`, `NAME`, `IMAGE`, `LINK`, `GENERATION`) VALUES (11,'Black',null,'http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Black_and_White_Versions', 5);
+INSERT INTO `pm_game` (`ID_GAME`, `NAME`, `IMAGE`, `LINK`, `GENERATION`) VALUES (12,'White',null,'http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Black_and_White_Versions', 5);
+INSERT INTO `pm_game` (`ID_GAME`, `NAME`, `IMAGE`, `LINK`, `GENERATION`) VALUES (13,'Black 2',null,'http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Black_and_White_Versions_2', 5);
+INSERT INTO `pm_game` (`ID_GAME`, `NAME`, `IMAGE`, `LINK`, `GENERATION`) VALUES (14,'White 2',null,'http://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Black_and_White_Versions_2', 5);
