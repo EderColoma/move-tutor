@@ -1,16 +1,16 @@
 <?php
 /*
  * Include da biblioteca de ajax, essa biblioteca faz com que o processameto e a 
- * renderização possam ser feitos em background, desse modo não precisamos ficar 
+ * renderizaÃ§Ã£o possam ser feitos em background, desse modo nÃ£o precisamos ficar 
  * recarregando a pagina.
  */
-require_once("../vendor/ajax/xajax.inc.php");
+require_once("/vendor/ajax/xajax.inc.php");
 require_once("app/PokemonMoveTutor.php");
 
 /*
- * Include da biblioteca de manipulação do HTML, com isso podemos isolar o HTML do código PHP 
+ * Include da biblioteca de manipulaÃ§Ã£o do HTML, com isso podemos isolar o HTML do cÃ³digo PHP 
  */
-include_once("../vendor/xtemplate/xtemplate.php");
+include_once("/vendor/xtemplate/xtemplate.php");
 
 $xajax = new xajax();
 
@@ -130,7 +130,7 @@ function loadStartPage()
 }
 
 /*
- * Faz com que o método carregarComboPokemon fique acessível através de chamada javascript. 
+ * Faz com que o mÃ©todo carregarComboPokemon fique acessÃ­vel atravÃ©s de chamada javascript. 
  */
 
 $xajax->registerFunction( 'loadStartPage' );
