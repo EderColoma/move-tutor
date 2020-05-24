@@ -4,13 +4,13 @@
  * renderização possam ser feitos em background, desse modo não precisamos ficar 
  * recarregando a pagina.
  */
-require_once("../vendor/ajax/xajax.inc.php");
+require_once("resources/ajax/xajax.inc.php");
 require_once("app/PokemonMoveTutor.php");
 
 /*
  * Include da biblioteca de manipulação do HTML, com isso podemos isolar o HTML do código PHP 
  */
-include_once("../vendor/xtemplate/xtemplate.php");
+include_once("resources/xtemplate/xtemplate.php");
 
 $xajax = new xajax();
 
